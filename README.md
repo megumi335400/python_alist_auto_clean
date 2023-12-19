@@ -1,0 +1,2 @@
+# python_alist_auto_clean
+Python脚本利用本地alist机制自动清除阿里云盘资源库缓存
