@@ -1,4 +1,5 @@
 # python_alist_auto_clean
+针对小雅alist 播放阿里云盘的资源会缓存到自己的阿里云盘中进行中转,担心自己阿里云盘空间不够的问题
 Python脚本利用本地alist机制自动清除阿里云盘资源库缓存
-
+使用定时计划可以定时执行脚本完成
 使用前需要先下载python的requests库
